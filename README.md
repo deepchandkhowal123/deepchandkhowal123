@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============================== HEADER ============================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FF66,50:00E5FF,75:8A2BE2,100:000000&height=300&section=header&text=DEEPCHAND%20OS%20%E2%80%94%20v10.0&fontSize=44&fontColor=00FF66&fontAlignY=35&desc=Full%20Stack%20%26%20AI%20Software%20Engineer&descAlignY=54&descSize=16&descColor=00E5FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FF66,50:00E5FF,75:8A2BE2,100:000000&height=280&section=header&text=DEEPCHAND%20KHOWAL%20%E2%80%94%20v10.0&fontSize=42&fontColor=00FF66&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Software%20Engineer&descAlignY=55&descSize=16&descColor=00E5FF&animation=fadeIn"/>
 
 <a href="https://github.com/deepchandkhowal123">
   <img src="https://readme-typing-svg.demolab.com/?lines=%3E+booting+deepchand_os...;%3E+Full-Stack+%26+AI+Software+Engineer;%3E+Architecting+Scalable+Web+Systems;%3E+Building+Real-World+Intelligent+AI+Agents;%3E+status%3A+online&font=Fira+Code&size=21&pause=1300&color=00FF66&background=00000000&center=true&vCenter=true&width=720&height=50"/>
@@ -25,16 +25,16 @@
 </div>
 
 ```ansi
-[1;32m┌──────────────────────────────────────────────────────────────────┐[0m
-[1;32m│[0m  DEEPCHAND.OS v10.0 — SYSTEM BOOTLOADER                           [1;32m│[0m
-[1;32m├──────────────────────────────────────────────────────────────────┤[0m
-[1;32m│[0m  [92m[✓][0m Initializing kernel..................................[92mOK[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Loading neural & web subsystems.......................[92mOK[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Mounting /repositories on github.com..................[92mOK[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Verifying identity: deepchandkhowal123................[92mOK[0m [1;32m│[0m
-[1;32m│[0m  [92m[✓][0m Compiling developer statistics........................[92mOK[0m [1;32m│[0m
-[1;32m│[0m  [96m[READY][0m Welcome back, Deepchand. All systems nominal.        [1;32m│[0m
-[1;32m└──────────────────────────────────────────────────────────────────┘[0m
+ [1;32m┌──────────────────────────────────────────────────────────────────┐ [0m
+ [1;32m│ [0m  DEEPCHAND.OS v10.0 — SYSTEM BOOTLOADER                            [1;32m│ [0m
+ [1;32m├──────────────────────────────────────────────────────────────────┤ [0m
+ [1;32m│ [0m   [92m[✓] [0m Initializing kernel.................................. [92mOK [0m  [1;32m│ [0m
+ [1;32m│ [0m   [92m[✓] [0m Loading neural & web subsystems....................... [92mOK [0m  [1;32m│ [0m
+ [1;32m│ [0m   [92m[✓] [0m Mounting /repositories on github.com.................. [92mOK [0m  [1;32m│ [0m
+ [1;32m│ [0m   [92m[✓] [0m Verifying identity: deepchandkhowal123................ [92mOK [0m  [1;32m│ [0m
+ [1;32m│ [0m   [92m[✓] [0m Compiling developer statistics........................ [92mOK [0m  [1;32m│ [0m
+ [1;32m│ [0m   [96m[READY] [0m Welcome back, Deepchand. All systems nominal.         [1;32m│ [0m
+ [1;32m└──────────────────────────────────────────────────────────────────┘ [0m
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
@@ -101,9 +101,13 @@ domains:
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,html,css&theme=dark"/>
 
+<br/><br/>
+
 **〈 FRONTEND 〉**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux&theme=dark"/>
+
+<br/><br/>
 
 **〈 BACKEND 〉**
 
@@ -111,6 +115,8 @@ domains:
 <br/>
 <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socket.io&logoColor=00FF66"/>
 <img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
+
+<br/><br/>
 
 **〈 ARTIFICIAL INTELLIGENCE & ML 〉**
 
@@ -120,9 +126,13 @@ domains:
 <img src="https://img.shields.io/badge/LLM_Agents-000000?style=for-the-badge&labelColor=000000&color=00FF66"/>
 <img src="https://img.shields.io/badge/Computer_Vision-000000?style=for-the-badge&logo=opencv&logoColor=00E5FF"/>
 
+<br/><br/>
+
 **〈 DATABASES 〉**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,mysql&theme=dark"/>
+
+<br/><br/>
 
 **〈 TOOLS & PLATFORMS 〉**
 
@@ -130,6 +140,8 @@ domains:
 <br/>
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00E5FF"/>
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=8A2BE2"/>
+
+<br/><br/>
 
 **〈 CORE FOUNDATIONS 〉**
 
@@ -165,7 +177,7 @@ domains:
 - OpenAI API integration & AST parsing
 - Async response streaming & bug detection
 
-**[→ View Repository](https://github.com/deepchandkhowal123)**
+**[→ View Repository](https://github.com/deepchandkhowal123/ai-code-assistant)**
 
 </td>
 <td width="50%" valign="top">
@@ -179,7 +191,7 @@ domains:
 - MongoDB + Redis caching + Auth
 - Stripe checkout & usage analytics
 
-**[→ View Repository](https://github.com/deepchandkhowal123)**
+**[→ View Repository](https://github.com/deepchandkhowal123/fullstack-saas)**
 
 </td>
 </tr>
@@ -195,7 +207,7 @@ domains:
 - Redis Pub/Sub event messaging
 - Dockerized container workflow & JWT Auth
 
-**[→ View Repository](https://github.com/deepchandkhowal123)**
+**[→ View Repository](https://github.com/deepchandkhowal123/ecommerce-api)**
 
 </td>
 <td width="50%" valign="top">
@@ -208,7 +220,7 @@ domains:
 - Five scheduling algorithms, Chart.js Gantt view
 - React + Vite + PBKDF2 authentication
 
-**[→ View Repository](https://github.com/deepchandkhowal123)**
+**[→ View Repository](https://github.com/deepchandkhowal123/secure-os-scheduler)**
 
 </td>
 </tr>
@@ -224,9 +236,13 @@ domains:
 <img src="https://github-readme-stats.vercel.app/api?username=deepchandkhowal123&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&icon_color=00E5FF&text_color=ffffff&ring_color=8A2BE2&include_all_commits=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepchandkhowal123&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00FF66&text_color=ffffff&langs_count=8" height="180"/>
 
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepchandkhowal123&theme=dark&hide_border=true&background=00000000&ring=00FF66&fire=00E5FF&currStreakLabel=00FF66&sideLabels=8A2BE2&dates=ffffff" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepchandkhowal123&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepchandkhowal123&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
 
 </div>
 
@@ -271,9 +287,9 @@ guest@deepchand-os:~$ _
 
 ## `◈ 06 — EVOLUTION_TIMELINE.log`
 
-<table>
-<tr><td align="center">🟢</td><td><b>Started Programming</b> — C, Python, JavaScript, then Full-Stack Engineering</td></tr>
-<tr><td align="center">🔵</td><td><b>Building Full-Stack Systems</b> — React, Next.js, Node.js, databases</td></tr>
+<table width="100%">
+<tr><td align="center" width="10%">🟢</td><td><b>Started Programming</b> — C, Python, JavaScript, then Full-Stack Engineering</td></tr>
+<tr><td align="center">🔵</td><td><b>Building Full-Stack Systems</b> — React, Next.js, Node.js, Express, databases</td></tr>
 <tr><td align="center">🟣</td><td><b>Learning AI & ML Workflows</b> — PyTorch, FastAPI, Agentic AI, LLM Integration</td></tr>
 <tr><td align="center">🟢</td><td><b>Building Real Production Apps</b> — <i>current chapter</i></td></tr>
 <tr><td align="center">⚪</td><td><b>Senior AI Engineer</b> — <i>next chapter</i></td></tr>
@@ -307,10 +323,13 @@ guest@deepchand-os:~$ _
 
 ## `◈ 08 — CONTACT.link`
 
-<a href="https://www.linkedin.com/in/deepchand-kumawat-436788321/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="https://github.com/deepchandkhowal123"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/deepchand-kumawat-436788321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+&nbsp;
+<a href="https://github.com/deepchandkhowal123" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+&nbsp;
 <a href="mailto:deepchandkhowal@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
-<a href="https://deepchandkhowal123.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=8A2BE2"/></a>
+&nbsp;
+<a href="https://deepchandkhowal123.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=8A2BE2"/></a>
 
 </div>
 
@@ -322,3 +341,5 @@ guest@deepchand-os:~$ _
 <div align="center">
 <sub>⚡ Thanks for visiting my profile. See you in the next commit. ⚡</sub>
 </div>
+
+
