@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ============================== HEADER ============================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FF66,50:00E5FF,75:8A2BE2,100:000000&height=280&section=header&text=DEEPCHAND%20KHOWAL%20%E2%80%94%20v10.0&fontSize=42&fontColor=00FF66&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Software%20Engineer&descAlignY=55&descSize=16&descColor=00E5FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:00FF66,50:00E5FF,75:8A2BE2,100:000000&height=280&section=header&text=DEEPCHAND%20KUMAWAT%20%E2%80%94%20v10.0&fontSize=42&fontColor=00FF66&fontAlignY=36&desc=Full%20Stack%20%26%20AI%20Software%20Engineer&descAlignY=55&descSize=16&descColor=00E5FF&animation=fadeIn"/>
 
 <a href="https://github.com/deepchandkhowal123">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+booting+deepchand_os...;%3E+Full-Stack+%26+AI+Software+Engineer;%3E+Architecting+Scalable+Web+Systems;%3E+Building+Real-World+Intelligent+AI+Agents;%3E+status%3A+online&font=Fira+Code&size=21&pause=1300&color=00FF66&background=00000000&center=true&vCenter=true&width=720&height=50"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+booting+deepchand_os...;%3E+Hi%2C+I'm+Deepchand+Kumawat!;%3E+Full-Stack+%26+AI+Software+Engineer;%3E+Architecting+Scalable+Web+Systems;%3E+Building+Real-World+Intelligent+AI+Agents;%3E+status%3A+online&font=Fira+Code&size=21&pause=1300&color=00FF66&background=00000000&center=true&vCenter=true&width=720&height=50"/>
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=deepchandkhowal123&style=for-the-badge&color=00ff66&labelColor=000000&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/deepchandkhowal123?style=for-the-badge&labelColor=000000&color=00e5ff&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/CORE-ONLINE-8A2BE2?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CORE-ACTIVE-8A2BE2?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -24,17 +24,17 @@
 
 </div>
 
-```ansi
- [1;32m┌──────────────────────────────────────────────────────────────────┐ [0m
- [1;32m│ [0m  DEEPCHAND.OS v10.0 — SYSTEM BOOTLOADER                            [1;32m│ [0m
- [1;32m├──────────────────────────────────────────────────────────────────┤ [0m
- [1;32m│ [0m   [92m[✓] [0m Initializing kernel.................................. [92mOK [0m  [1;32m│ [0m
- [1;32m│ [0m   [92m[✓] [0m Loading neural & web subsystems....................... [92mOK [0m  [1;32m│ [0m
- [1;32m│ [0m   [92m[✓] [0m Mounting /repositories on github.com.................. [92mOK [0m  [1;32m│ [0m
- [1;32m│ [0m   [92m[✓] [0m Verifying identity: deepchandkhowal123................ [92mOK [0m  [1;32m│ [0m
- [1;32m│ [0m   [92m[✓] [0m Compiling developer statistics........................ [92mOK [0m  [1;32m│ [0m
- [1;32m│ [0m   [96m[READY] [0m Welcome back, Deepchand. All systems nominal.         [1;32m│ [0m
- [1;32m└──────────────────────────────────────────────────────────────────┘ [0m
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│  DEEPCHAND.OS v10.0 — SYSTEM BOOTLOADER                            │
+├──────────────────────────────────────────────────────────────────┤
+│  [✓] Initializing kernel.................................. OK   │
+│  [✓] Loading neural & web subsystems....................... OK   │
+│  [✓] Mounting /repositories on github.com.................. OK   │
+│  [✓] Verifying identity: Deepchand Kumawat................. OK   │
+│  [✓] Compiling developer statistics........................ OK   │
+│  [READY] Welcome back, Deepchand Kumawat. All systems nominal.   │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif"/>
@@ -52,7 +52,7 @@
 
 ```yaml
 identity:
-  name: Deepchand Kumawat (Khowal)
+  name: Deepchand Kumawat
   degree: B.Tech CSE — Full-Stack & AI
   role: Full-Stack & AI Software Engineer
 
@@ -341,5 +341,3 @@ guest@deepchand-os:~$ _
 <div align="center">
 <sub>⚡ Thanks for visiting my profile. See you in the next commit. ⚡</sub>
 </div>
-
-
