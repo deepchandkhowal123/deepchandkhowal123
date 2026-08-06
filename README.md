@@ -1,11 +1,11 @@
 <!-- ========================================================================== -->
-<!-- DEEPCHAND KUMAWAT - GOD-TIER ULTIMATE GITHUB PROFILE MASTERPIECE             -->
+<!-- DEEPCHAND KUMAWAT - GOD-TIER SUPREME GITHUB PROFILE MASTERPIECE              -->
 <!-- ========================================================================== -->
 
 <div align="center">
 
   <!-- DYNAMIC ANIMATED NEON WAVE BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00f0ff,50:7000ff,75:ff007f,100:0d1117&height=240&section=header&text=DEEPCHAND%20KUMAWAT&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00f0ff,50:7000ff,75:ff007f,100:0d1117&height=250&section=header&text=DEEPCHAND%20KUMAWAT&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />
 
   <br />
 
@@ -47,12 +47,12 @@
 ```bash
  🔴 🟡 🟢 deepchand@kumawat-dev ~ % neofetch --verbose
  
-  SYSTEM          Deepchand Kumawat v2.5 (God-Tier Edition)
+  SYSTEM          Deepchand Kumawat v3.0 (Supreme Pro Edition)
   ROLE            Full-Stack & AI Software Engineer
   LOCATION        India 🇮🇳
-  CORE_STACK      React · Next.js · Node.js · Python · AI/ML
-  CURRENT_FOCUS   Building Autonomous AI Agents & Distributed Cloud Services
-  PHILOSOPHY      "Keep it simple, make it scale, write clean code."
+  CORE_STACK      React · Next.js 14 · Node.js · Python · AI/ML · Docker
+  CURRENT_FOCUS   Architecting Autonomous AI Agents & Cloud Microservices
+  PHILOSOPHY      "Keep it simple, make it scale, write clean, testable code."
   STATUS          🟢 Available for Full-Time Engineering Roles & Technical Partnerships
 ```
 
@@ -63,7 +63,7 @@
 I am **Deepchand Kumawat**, a **Full-Stack & AI Engineer** specializing in architecting resilient distributed applications, high-performance web UIs, and automated artificial intelligence workflows.
 
 - 🔭 **Current Focus**: Next.js 14 App Router, Async Python APIs, Agentic RAG Workflows, and Distributed Caching.
-- 🌱 **Learning & Research**: Microservices Event-Driven Architecture and Advanced LLM Fine-Tuning.
+- 🌱 **Learning & Research**: Microservices Event-Driven Architecture, Redis Pub/Sub, and Advanced LLM Fine-Tuning.
 - 💬 **Core Stack**: JavaScript, TypeScript, React, Node.js, Python, PostgreSQL, MongoDB, Redis, and System Design.
 - ⚡ **Engineering Mindset**: Turning complex, ambiguous technical problems into clean, testable, and production-ready code ☕💻.
 
