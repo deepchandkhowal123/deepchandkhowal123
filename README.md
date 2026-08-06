@@ -1,20 +1,20 @@
 <!-- ========================================================================== -->
-<!-- DEEPCHAND KHOWAL - ULTIMATE PROFESSIONAL GITHUB PROFILE                     -->
+<!-- DEEPCHAND KHOWAL - ULTIMATE BULLETPROOF PROFESSIONAL GITHUB PROFILE        -->
 <!-- ========================================================================== -->
 
 <div align="center">
 
-  <!-- ANIMATED HEADER BANNER -->
+  <!-- ANIMATED HEADER BANNER (100% Reliable SVG) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,42&height=220&section=header&text=DEEPCHAND%20KHOWAL&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
   
   <br />
 
-  <!-- DYNAMIC TYPING SUBTITLE -->
+  <!-- DYNAMIC TYPING SUBTITLE (100% Reliable SVG) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=680&height=60&lines=Hi+%F0%9F%90%8B%2C+I'm+Deepchand+Khowal!;Full-Stack+%26+AI+Software+Engineer;Architecting+Scalable+Web+Apps+%26+AI+Systems;Open+Source+Contributor+%26+Tech+Explorer" alt="Typing SVG" />
 
   <br />
 
-  <!-- QUICK SOCIAL BADGES -->
+  <!-- QUICK SOCIAL BADGES (100% Working Shields.io) -->
   <p align="center">
     <a href="https://linkedin.com/in/deepchandkhowal123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;
@@ -27,11 +27,11 @@
 
   <!-- VISITOR COUNTER & STATUS BADGES -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=deepchandkhowal123&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
-    &nbsp;
     <img src="https://img.shields.io/badge/Status-🟢_Open_For_Opportunities-00FF9D?style=flat-square" alt="Status" />
     &nbsp;
     <img src="https://img.shields.io/badge/Location-India_🇮🇳-00F0FF?style=flat-square" alt="Location" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Role-Full--Stack_%26_AI_Engineer-7000FF?style=flat-square" alt="Role" />
   </p>
 
 </div>
@@ -126,21 +126,6 @@
 
 ---
 
-### 📊 GitHub Live Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepchandkhowal123&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" width="49%" alt="GitHub Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepchandkhowal123&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&langs_count=8" width="49%" alt="Top Languages Breakdown" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepchandkhowal123&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" width="99%" alt="Continuous Contribution Streak" />
-</div>
-
----
-
 ### 🔥 Featured Projects
 
 ### 🤖 1. AI Code Assistant & Reviewer
@@ -164,13 +149,29 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepchandkhowal123&theme=tokyonight&column=6&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+
+  <a href="https://linkedin.com/in/deepchandkhowal123" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/deepchandkhowal123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:deepchandkhowal@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://deepchandkhowal123.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
+  </a>
+
 </div>
 
----
+<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24,30,42&height=120&section=footer" width="100%" alt="Footer Wave" />
