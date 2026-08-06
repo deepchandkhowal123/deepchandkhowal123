@@ -129,32 +129,45 @@
 ### 📊 GitHub Live Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepchandkhowal123&show_icons=true&theme=radical&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0D1117" width="49%" alt="GitHub Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepchandkhowal123&layout=compact&theme=radical&hide_border=true&title_color=00F0FF&text_color=ffffff&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages Breakdown" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepchandkhowal123&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" width="49%" alt="GitHub Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepchandkhowal123&layout=compact&theme=tokyonight&hide_border=true&title_color=00F0FF&text_color=ffffff&langs_count=8" width="49%" alt="Top Languages Breakdown" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepchandkhowal123&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" width="99%" alt="Continuous Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepchandkhowal123&theme=tokyonight&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" width="99%" alt="Continuous Contribution Streak" />
 </div>
 
 ---
 
-### 🔥 Featured Projects Showcase
+### 🔥 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :---: |
-| 🚀 **AI Code Assistant** | Smart AI tool for automated code generation & syntax debugging | Python · FastAPI · React · OpenAI | [Repo](https://github.com/deepchandkhowal123/ai-code-assistant) \| [Demo](https://demo.com) |
-| 💻 **Full-Stack SaaS Platform** | Real-time analytics dashboard with authentication & payments | Next.js · TypeScript · Node.js · MongoDB | [Repo](https://github.com/deepchandkhowal123/fullstack-saas) \| [Demo](https://demo.com) |
-| ⚡ **Microservices E-Commerce** | Scalable REST API & high-throughput inventory engine | Node.js · Express · PostgreSQL · Docker | [Repo](https://github.com/deepchandkhowal123/ecommerce-api) \| [Demo](https://demo.com) |
+### 🤖 1. AI Code Assistant & Reviewer
+> Intelligent developer assistant for automated code generation, syntax optimization, and bug fixing.
+- **Tech Stack:** `Python` · `FastAPI` · `React` · `OpenAI API`
+- **Links:** [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/ai-code-assistant) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://demo.com)
+
+<br />
+
+### 💻 2. Full-Stack SaaS Platform
+> Multi-tenant enterprise dashboard featuring real-time analytics streaming, authentication, and billing.
+- **Tech Stack:** `Next.js` · `TypeScript` · `Node.js` · `MongoDB`
+- **Links:** [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/fullstack-saas) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://demo.com)
+
+<br />
+
+### ⚡ 3. Microservices E-Commerce Engine
+> Scalable backend microservices architecture designed for high throughput and sub-millisecond caching.
+- **Tech Stack:** `Node.js` · `Express` · `PostgreSQL` · `Redis` · `Docker`
+- **Links:** [![GitHub](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/ecommerce-api) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://demo.com)
 
 ---
 
-### 🏆 Achievements & Badges
+### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepchandkhowal123&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deepchandkhowal123&theme=tokyonight&column=6&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
