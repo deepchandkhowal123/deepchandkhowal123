@@ -151,9 +151,17 @@ graph TD
 
 ### 📈 GitHub Activity Graph
 
+<!-- Option 1: Reliable contribution chart (no setup required) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepchandkhowal123&theme=tokyo-night&hide_border=true&area=true&color=00F0FF&line=00F0FF&point=FF007F&bg_color=0d1117&title_color=00F0FF&radius=12&days=60" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/00f0ff/deepchandkhowal123" width="100%" alt="GitHub Contribution Chart" />
 </div>
+
+<!-- Option 2: Activity graph (uncomment if you self-host on Vercel) -->
+<!--
+<div align="center">
+  <img src="https://github-readme-activity-graph-your-deployment.vercel.app/graph?username=deepchandkhowal123&theme=tokyo-night&hide_border=true&area=true&color=00F0FF&line=00F0FF&point=FF007F&bg_color=0d1117&title_color=00F0FF&radius=12&days=60" width="100%" alt="GitHub Activity Graph" />
+</div>
+-->
 
 ---
 
