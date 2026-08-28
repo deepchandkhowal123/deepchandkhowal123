@@ -1,5 +1,5 @@
 <!-- ========================================================================== -->
-<!-- DEEPCHAND KUMAWAT - ULTRA-CLEAN GOD-TIER PROFILE (NO GREY BOX BACKGROUNDS)   -->
+<!-- DEEPCHAND KUMAWAT - ULTRA-CLEAN GOD-TIER PROFILE WITH LEETCODE STATS       -->
 <!-- ========================================================================== -->
 
 <div align="center">
@@ -16,11 +16,11 @@
 
   <!-- PRIMARY SOCIAL HUB BADGES -->
   <p align="center">
-    <a href="https://leetcode.com/u/Deepchand_kumawat/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/deepchand-kumawat-436788321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;&nbsp;
     <a href="https://github.com/deepchandkhowal123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     &nbsp;&nbsp;
     <a href="mailto:deepchandkhowal@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     &nbsp;&nbsp;
@@ -93,24 +93,6 @@
   <b>〈 TOOLS, DEVOPS & INFRASTRUCTURE 〉</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,linux,vscode&theme=dark" alt="Tools & Cloud" />
 </p>
-
----
-
-### 🧱 Competitive Programming & Problem Solving
-
-<div align="center">
-  <a href="https://leetcode.com/u/Deepchand_kumawat/" target="_blank">
-    <img src="https://leetcode-stats-api.herokuapp.com/Deepchand_kumawat" alt="Deepchand's LeetCode Stats" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://leetcode.com/u/Deepchand_kumawat/" target="_blank">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Deepchand_kumawat&theme=dark" alt="LeetCode Profile Card" />
-  </a>
-</div>
 
 ---
 
