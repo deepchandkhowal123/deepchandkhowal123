@@ -1,10 +1,10 @@
 <!-- ========================================================================== -->
-<!-- DEEPCHAND KUMAWAT - ULTRA-CLEAN GOD-TIER PROFILE (NO GREY BOX BACKGROUNDS)   -->
+<!-- DEEPCHAND KUMAWAT - ULTRA-CLEAN GOD-TIER PROFILE (FULLY WORKING VERSION)     -->
 <!-- ========================================================================== -->
 
 <div align="center">
 
-  <!-- DYNAMIC ANIMATED NEON WAVE BANNER -->
+  <!-- DYNAMIC ANIMATED NEON WAVE BANNER (capsule-render) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00f0ff,50:7000ff,75:ff007f,100:0d1117&height=240&section=header&text=DEEPCHAND%20KUMAWAT&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Header Banner" />
 
   <br />
@@ -151,17 +151,9 @@ graph TD
 
 ### 📈 GitHub Activity Graph
 
-<!-- Option 1: Reliable contribution chart (no setup required) -->
 <div align="center">
   <img src="https://ghchart.rshah.org/00f0ff/deepchandkhowal123" width="100%" alt="GitHub Contribution Chart" />
 </div>
-
-<!-- Option 2: Activity graph (uncomment if you self-host on Vercel) -->
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph-your-deployment.vercel.app/graph?username=deepchandkhowal123&theme=tokyo-night&hide_border=true&area=true&color=00F0FF&line=00F0FF&point=FF007F&bg_color=0d1117&title_color=00F0FF&radius=12&days=60" width="100%" alt="GitHub Activity Graph" />
-</div>
--->
 
 ---
 
@@ -177,6 +169,50 @@ graph TD
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepchandkhowal123&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" width="99%" alt="Continuous Contribution Streak" />
 </div>
+
+---
+
+### 🧠 LeetCode Stats & Problem Solving
+
+<div align="center">
+
+<!-- LeetCode stats card - replace 'deepchandkhowal123' with your actual LeetCode username -->
+<a href="https://leetcode.com/deepchandkhowal123/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/deepchandkhowal123?ext=heatmap&theme=dark&font=Fira+Code&site=cn&border=0d1117&radius=12&solved=00F0FF&attempted=7000FF&unsolved=ff007f&accent=00F0FF&title=00F0FF&rank=00F0FF" width="49%" alt="LeetCode Stats Card" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/deepchandkhowal123/" target="_blank">
+  <img src="https://leetcode-stats-api.vercel.app/api?username=deepchandkhowal123&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=ffffff&icon_color=00F0FF" width="49%" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<!-- LeetCode badges -->
+<a href="https://leetcode.com/deepchandkhowal123/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/deepchandkhowal123/" target="_blank">
+  <img src="https://leetcode.badgen.dev/deepchandkhowal123/solved" alt="LeetCode Solved" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/deepchandkhowal123/" target="_blank">
+  <img src="https://leetcode.badgen.dev/deepchandkhowal123/ranking" alt="LeetCode Ranking" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/deepchandkhowal123/" target="_blank">
+  <img src="https://leetcode.badgen.dev/deepchandkhowal123/acceptance-rate" alt="LeetCode Acceptance Rate" />
+</a>
+
+</div>
+
+<br />
+
+> 📌 *Visit my [LeetCode profile](https://leetcode.com/deepchandkhowal123/) to see all solved problems with solutions.*
 
 ---
 
@@ -238,6 +274,10 @@ graph TD
   &nbsp;&nbsp;
   <a href="https://deepchandkhowal123.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/deepchandkhowal123/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
 </div>
