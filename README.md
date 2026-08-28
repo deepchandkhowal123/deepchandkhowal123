@@ -108,6 +108,55 @@ graph TD
 
 ---
 
+### 💼 Experience & Professional Journey
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+#### 🚀 Full-Stack & AI Software Engineer
+*Present · Remote / India 🇮🇳*
+
+- Architecting scalable microservices handling **1M+ requests/day** with sub-50ms latency using Node.js & FastAPI.
+- Building autonomous **LLM Agent pipelines** (LangChain + OpenAI) for code generation, review, and document analysis.
+- Designing **multi-tenant SaaS dashboards** with role-based access control (RBAC), Stripe billing, and real-time analytics.
+- Implementing **CI/CD pipelines** with Docker, GitHub Actions, and AWS — reducing deployment time by 70%.
+- Mentoring junior developers on clean architecture, code reviews, and best practices for maintainable codebases.
+
+**Key Achievements:**
+- 🏆 Reduced API response time from 400ms → 35ms via Redis caching & query optimization
+- 📈 Scaled user base from 5K → 120K with zero downtime migrations
+- 🤖 Deployed 3 production AI agents handling 10K+ daily automated tasks
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+#### ⚙️ Software Developer — Full-Stack
+*Past · Hybrid*
+
+- Developed responsive React/Next.js applications serving **50K+ monthly active users**.
+- Built RESTful & GraphQL APIs with PostgreSQL, achieving 99.9% uptime.
+- Integrated third-party services: Stripe, SendGrid, AWS S3, and Twilio.
+- Collaborated cross-functionally with product, design, and QA teams using Agile/Scrum.
+
+</td>
+</tr>
+</table>
+
+> 📌 *For full work history, check my [LinkedIn profile](https://www.linkedin.com/in/deepchand-kumawat-436788321/)*
+
+---
+
+### 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepchandkhowal123&theme=tokyo-night&hide_border=true&area=true&color=00F0FF&line=00F0FF&point=FF007F&bg_color=0d1117&title_color=00F0FF&radius=12&days=60" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+---
+
 ### 📊 GitHub Analytics & Metrics
 
 <div align="center">
@@ -129,7 +178,9 @@ graph TD
 > Intelligent developer assistant for automated code generation, syntax optimization, and bug fixing.
 - **Capabilities:** Real-time AST code parsing, automated PR reviews, async streaming APIs.
 - **Tech Stack:** `Python` · `FastAPI` · `React` · `OpenAI API` · `TailwindCSS`
-- **Links:** [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/ai-code-assistant) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://demo.com)
+- **Links:**
+  [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/ai-code-assistant) &nbsp;
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://deepchandkhowal123.github.io/ai-code-assistant)
 
 <br />
 
@@ -137,7 +188,9 @@ graph TD
 > Multi-tenant enterprise dashboard featuring real-time analytics streaming, authentication, and billing.
 - **Capabilities:** Role-based access control (RBAC), Stripe checkout integration, Sub-50ms queries.
 - **Tech Stack:** `Next.js 14` · `TypeScript` · `Node.js` · `MongoDB` · `Stripe API`
-- **Links:** [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/fullstack-saas) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://demo.com)
+- **Links:**
+  [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/fullstack-saas) &nbsp;
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://deepchandkhowal123.github.io/fullstack-saas)
 
 <br />
 
@@ -145,7 +198,9 @@ graph TD
 > Scalable backend microservices architecture designed for high throughput and sub-millisecond caching.
 - **Capabilities:** Redis Pub/Sub event messaging, PostgreSQL ACID transaction isolation, Dockerized workflow.
 - **Tech Stack:** `Node.js` · `Express` · `PostgreSQL` · `Redis` · `Docker`
-- **Links:** [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/ecommerce-api) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://demo.com)
+- **Links:**
+  [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/deepchandkhowal123/ecommerce-api) &nbsp;
+  [![Live Demo](https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=google-chrome&logoColor=black)](https://deepchandkhowal123.github.io/ecommerce-api)
 
 ---
 
